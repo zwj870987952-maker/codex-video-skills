@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Video Prompt Optimizer"
+  short_description: "Multi-model AI video prompt routing and optimization with Seedance-first references."
+  default_prompt: "Use $ai-video-prompt-optimizer to clarify missing information in Chinese, then output a bilingual Chinese + English video prompt package, including handle-ready prompts when reference assets are available."

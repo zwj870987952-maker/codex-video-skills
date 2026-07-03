@@ -1,0 +1,4 @@
+interface:
+  display_name: "Shotlist Builder"
+  short_description: "Turn screenplay beats into cinematic shotlists, blocking, and prompt-ready visual plans."
+  default_prompt: "Use $shotlist-builder to break a screenplay or story into shots, ask for missing visual information in Chinese, and prepare a production-ready shot plan."

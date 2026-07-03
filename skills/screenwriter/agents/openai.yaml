@@ -1,0 +1,4 @@
+interface:
+  display_name: "Screenwriter"
+  short_description: "Collaborative screenplay writing, scene drafting, and upstream story handoff."
+  default_prompt: "Use $screenwriter to help me write or revise screenplay material, ask for missing story decisions in Chinese, and prepare the result for downstream shotlisting when needed."
